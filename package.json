@@ -1,0 +1,18 @@
+{
+  "name": "plex-newmedia-discord-bot",
+  "version": "0.1.0",
+  "description": "This allows Plex new media events to be posted to Discord",
+  "main": "server.js",
+  "repository": "https://github.com/tommyv972/plex-newmedia-discord-bot.git",
+  "author": "Tom Vongphakdy <tommy.vongphakdy@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "express": "^4.17.2",
+    "multer": "^1.4.4"
+  }
+}
