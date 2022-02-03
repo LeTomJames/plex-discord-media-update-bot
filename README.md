@@ -8,3 +8,6 @@ To run
 ```yarn start```
 
 This needs DISCORD_WEBHOOK_URL defined as an env variable to run by the way....
+
+
+NOTE TO SELF: TURN THIS INTO A NESTJS APPLICATION
